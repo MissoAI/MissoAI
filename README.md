@@ -42,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MissoAI/MissoAI/output/snake.svg" alt="Snake animation" />
 
 ###
