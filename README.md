@@ -1,11 +1,7 @@
 <h2 align="left">Hi 👋! My name is Missoum and I'm a Software Engineer from Algeria</h2>
 
 ###
-<style>
-  a {
-text-decoration: none;
-  }
-</style>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MissoAI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MissoAI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -18,31 +14,31 @@ text-decoration: none;
 ###
 
 <div align="center">
-<a text href="https://javascript.info/"  >
+<a style="text-decoration: none;" href="https://javascript.info/"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </a>
   <img width="12" />
-<a href="https://react.dev/" >
+<a style="text-decoration: none;" href="https://react.dev/" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </a>
   <img width="12" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  >
+<a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </a>
   <img width="12" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  >
+<a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/CSS"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </a>
   <img width="12" />
-<a href="https://www.linux.org/"  >
+<a style="text-decoration: none;" href="https://www.linux.org/"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </a>
   <img width="12" />
-<a href="https://git-scm.com/"  >
+<a style="text-decoration: none;" href="https://git-scm.com/"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </a>
   <img width="12" />
-<a href="https://github.com/"  >
+<a style="text-decoration: none;" href="https://github.com/"  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </a>
 </div>
